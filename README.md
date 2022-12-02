@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WaltPC
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning how to create a microservice from scratch for my models.
-- 💞️ I’m looking to collaborate on Machine Learning innitiaves.
+- 🌱 I’m currently learning how to create microservices from scratch for my models.
+- 💞️ I’m looking to collaborate on Machine Learning initiatives.
 - 📫 How to reach me: walperezc@gmail.com
 
 <!---
